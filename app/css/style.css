@@ -1,0 +1,62 @@
+.mycontainer{
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-width: 1px;
+    background-color: aliceblue;
+}
+
+.clr{
+    background: darkgray;
+    /* color: white; */
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-width: 1px;
+}
+
+.dv2{
+    color: white;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-width: 1px;
+}
+
+.bucaq{
+    background-color: darkgray;
+    font-size: small;
+    font-weight: bolder; 
+}
+
+.kommutator{
+    color: black;
+    font-size: small;
+    font-weight: bolder; 
+}
+
+.bicodetxt{
+    background: darkgray;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-width: 1px;
+    border-radius: 8px;
+}
+
+.mybtn{
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.473);
+    border-width: 1px;
+    border-radius: 8px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header-no-padding {
+    padding: 10px; /* Adjust as needed */
+    margin-left: -12px; /* Counteract container padding */
+    margin-right: -12px; /* Counteract container padding */
+    background-color: rgba(0, 195, 255, 0.637);
+    color: #fff;
+    height: 70px;
+}
